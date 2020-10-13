@@ -1,7 +1,7 @@
 ### Hi there 👋
 I like to build ML/DL models. Currently a notebooks expert on Kaggle.
 
-- 🔭 I’m currently working on ... Time Series models and forecasting methods
+- 🔭 I’m currently working on ... NLP, Time Series Forecasting and Financial Analysis
 - 🌱 I’m currently learning ... ML/DL
 - 👯 I’m looking to collaborate on ... ML/DL projects 
 - 📫 How to reach me: aayushkandpal26@gmail.com / aayushkandpal26@yahoo.com
