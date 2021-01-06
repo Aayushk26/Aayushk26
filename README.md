@@ -1,5 +1,5 @@
 ### Hi there 👋
-I like to build ML/DL models. Currently a notebooks expert on Kaggle.
+I like to build ML/DL models. Currently a 2X Kaggle Expert.
 
 - 🔭 I’m currently working on ... NLP, Time Series Forecasting and Financial Analysis
 - 🌱 I’m currently learning ... ML/DL
