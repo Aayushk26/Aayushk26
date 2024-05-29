@@ -1,5 +1,5 @@
 ### Hi there 👋
-I like to build ML/DL models. Currently a 2X Kaggle Expert.
+I like to analyse time-series data. Currently a 2X Kaggle Expert.
 
 - 🔭 I’m currently working on ... Time Series Forecasting and Financial Analysis
 - 🌱 Learning everything Finance and Math
